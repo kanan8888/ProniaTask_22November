@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122043651_updateProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication_Pronia_AB107_22November\\Migrations\\20241122043651_updateProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122041955_updateProductImageTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication_Pronia_AB107_22November\\Migrations\\20241122041955_updateProductImageTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122040915_addImageTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication_Pronia_AB107_22November\\Migrations\\20241122040915_addImageTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122040246_addTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication_Pronia_AB107_22November\\Migrations\\20241122040246_addTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\models\\tagproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\models\\tagproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122034157_addSliderTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication_Pronia_AB107_22November\\Migrations\\20241122034157_addSliderTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|c:\\users\\eyvaz\\source\\repos\\webapplication_pronia_ab107_22november\\webapplication_pronia_ab107_22november\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA8AC42-D19B-45E8-BD8B-6FE36C98A4FE}|WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November.csproj|solutionrelative:webapplication_pronia_ab107_22november\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241122043651_updateProductTable.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122043651_updateProductTable.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Migrations\\20241122043651_updateProductTable.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122043651_updateProductTable.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Migrations\\20241122043651_updateProductTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:36:51.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241122041955_updateProductImageTable.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122041955_updateProductImageTable.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Migrations\\20241122041955_updateProductImageTable.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122041955_updateProductImageTable.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Migrations\\20241122041955_updateProductImageTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:19:55.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241122040915_addImageTable.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122040915_addImageTable.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Migrations\\20241122040915_addImageTable.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122040915_addImageTable.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Migrations\\20241122040915_addImageTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:09:15.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\ProductImage.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:06:13.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:44:01.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAcFAAAAAAAAAAAAABIFAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:41:07.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:42:06.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241122040246_addTables.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122040246_addTables.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Migrations\\20241122040246_addTables.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122040246_addTables.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Migrations\\20241122040246_addTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:02:46.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:44:05.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\Tag.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:47:44.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TagProduct.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\TagProduct.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Models\\TagProduct.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\TagProduct.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Models\\TagProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:56:03.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\Category.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:45:58.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:48:14.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:44:38.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241122034157_addSliderTable.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122034157_addSliderTable.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Migrations\\20241122034157_addSliderTable.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Migrations\\20241122034157_addSliderTable.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Migrations\\20241122034157_addSliderTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:41:57.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Models\\Slider.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:16:56.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Program.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Program.cs",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:53:48.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\appsettings.json",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\appsettings.json",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T02:39:28.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:41:41.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication_Pronia_AB107_22November\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\WebApplication_Pronia_AB107_22November\\WebApplication_Pronia_AB107_22November\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication_Pronia_AB107_22November\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T02:40:45.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
