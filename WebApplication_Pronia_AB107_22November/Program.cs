@@ -22,7 +22,7 @@ namespace WebApplication_Pronia_AB107_22November
 
             app.MapControllerRoute(
                 name:"defoult",
-                pattern:"{controller=home}/{action=index}"
+                pattern:"{controller=home}/{action=index}/{id?}"
                 );
             app.UseStaticFiles();
             app.Run();

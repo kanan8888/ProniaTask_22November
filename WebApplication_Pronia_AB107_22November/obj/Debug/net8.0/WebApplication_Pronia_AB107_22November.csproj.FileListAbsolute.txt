@@ -168,3 +168,4 @@ C:\Users\eyvaz\source\repos\WebApplication_Pronia_AB107_22November\WebApplicatio
 C:\Users\eyvaz\source\repos\WebApplication_Pronia_AB107_22November\WebApplication_Pronia_AB107_22November\obj\Debug\net8.0\WebApplication_Pronia_AB107_22November.pdb
 C:\Users\eyvaz\source\repos\WebApplication_Pronia_AB107_22November\WebApplication_Pronia_AB107_22November\obj\Debug\net8.0\WebApplication_Pronia_AB107_22November.genruntimeconfig.cache
 C:\Users\eyvaz\source\repos\WebApplication_Pronia_AB107_22November\WebApplication_Pronia_AB107_22November\obj\Debug\net8.0\ref\WebApplication_Pronia_AB107_22November.dll
+C:\Users\eyvaz\source\repos\WebApplication_Pronia_AB107_22November\WebApplication_Pronia_AB107_22November\obj\Debug\net8.0\WebApplication_Pronia_AB107_22November.sourcelink.json

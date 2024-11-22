@@ -19,10 +19,22 @@ namespace WebApplication_Pronia_AB107_22November.Controllers
         {
             List<Product> products = _db.Products.Include(p=> p.ProductImages).ToList();
 
-
-
-
             return View(products);
         }
+
+        public async Task<IActionResult> Detail(int? id)
+        {
+            if (id==null) 
+            {
+                return NotFound();
+            }
+            var product=await _db.Products.Include(x=>x.Category)
+                .Include(x=>x.ProductImages)
+                .Include(x=>x.TagProducts)
+                .ThenInclude(x=>x.Tag)
+                .FirstOrDefaultAsync(x=>x.Id==id);
+            return View(product);
+        }
+
     }
 }
